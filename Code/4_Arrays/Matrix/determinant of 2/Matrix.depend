@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610587075 source:/home/matt/Documents/Dev/C/Exercises/Algoritmos/Matrix/main.c
+	<stdio.h>
+
+1610587050 source:/home/matt/Documents/Dev/C/Exercises/Algoritmos/Matrix/matrix2.c
+	<stdio.h>
+

@@ -1,0 +1,12 @@
+﻿Title,C Header Files
+Program assertion functions,<assert.h>
+Character type functions,https://www.programiz.com/c-programming/library-function/ctype.h
+Localization functions,<locale.h>
+Mathematics functions,https://www.programiz.com/c-programming/library-function/math.h
+Jump functions,<setjmp.h>
+Signal handling functions,<signal.h>
+Variable arguments handling functions,<stdarg.h>
+Standard Input/Output functions,<stdio.h>
+Standard Utility functions,<stdlib.h>
+String handling functions,https://www.programiz.com/c-programming/library-function/string.h
+Date time functions,<time.h>

@@ -1,0 +1,7 @@
+﻿Operator,Meaning of Operator,Example
+==,Equal to,5 == 3 is evaluated to 0
+>,Greater than,5 > 3 is evaluated to 1
+<,Less than,5 < 3 is evaluated to 0
+!=,Not equal to,5 != 3 is evaluated to 1
+>=,Greater than or equal to,5 >= 3 is evaluated to 1
+<=,Less than or equal to,5 <= 3 is evaluated to 0

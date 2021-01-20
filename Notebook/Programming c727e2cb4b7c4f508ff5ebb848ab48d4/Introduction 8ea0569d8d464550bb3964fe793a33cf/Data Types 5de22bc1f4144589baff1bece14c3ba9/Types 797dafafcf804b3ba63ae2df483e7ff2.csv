@@ -1,0 +1,7 @@
+﻿Data type,Definition,Notes
+https://computersciencewiki.org/index.php/Int,Integer. The mathematical name for any positive or negative whole number.,This is a common primitive data type
+https://computersciencewiki.org/index.php/Float,A float is a number that has a fractional or decimal part.,This is a common primitive data type
+https://computersciencewiki.org/index.php/Boolean,"A boolean is simply true or false, and can be nothing other than true or false",This is a common primitive data type
+https://computersciencewiki.org/index.php/String,"A string is used to store characters, which could be text or numbers.",This is a common primitive data type
+Pointer / Reference,This type points to (or references) a location in memory,This is a common primitive data type in compiled languages.
+https://computersciencewiki.org/index.php/Char,Character. This data type stores one single character.,This is a common primitive data type in compiled languages.

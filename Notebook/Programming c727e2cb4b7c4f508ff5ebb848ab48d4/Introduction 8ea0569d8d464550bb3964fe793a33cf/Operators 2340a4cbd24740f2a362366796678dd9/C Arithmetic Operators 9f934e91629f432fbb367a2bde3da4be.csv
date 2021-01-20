@@ -1,0 +1,6 @@
+﻿Operator,Meaning of Operator
++,addition or unary plus
+-,subtraction or unary minus
+*,multiplication
+/,division
+%,remainder after division (modulo division)

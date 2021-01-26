@@ -4,7 +4,9 @@ The switch statement allows us to execute one code block among many alternatives
 
 You can do the same thing with the `if...else..if` ladder. However, the syntax of the `switch` statement is much easier to read and write.
 
-Syntax of switch...case
+![switch%20Statement%2098af77dbd3e349d2a963726f45a20a56/Untitled.png](switch%20Statement%2098af77dbd3e349d2a963726f45a20a56/Untitled.png)
+
+### Syntax of switch...case
 
 ```c
 switch (expression)
@@ -24,7 +26,7 @@ switch (expression)
 }
 ```
 
-**How does the switch statement work?**
+### **How does the switch statement work?**
 
 The expression is evaluated once and compared with the values of each case label.
 
@@ -35,7 +37,7 @@ If we do not use `break`, all statements after the matching label are executed.
 
 By the way, the `default` clause inside the `switch` statement is optional.
 
-Example:
+### Example:
 
 ```c
 // Program to create a simple calculator

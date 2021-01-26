@@ -1,15 +1,27 @@
 # Introduction
 
-[Keywords](Introduction%208ea0569d8d464550bb3964fe793a33cf/Keywords%206ac8bbb708354fca89980c873837dac2.md)
+What is computer science?
 
-[Variables](Introduction%208ea0569d8d464550bb3964fe793a33cf/Variables%20bdc85d5c36654976a05408eb3af010aa.md)
+![Introduction%208ea0569d8d464550bb3964fe793a33cf/Untitled.png](Introduction%208ea0569d8d464550bb3964fe793a33cf/Untitled.png)
 
-[Literals](Introduction%208ea0569d8d464550bb3964fe793a33cf/Literals%203713a527cebd49fd9bfc65bb7b490ffc.md)
+- Computer science is fundamentally problem solving.
+- We can think of **problem solving** as the process of taking some input (details about our problem) and generate some output (the solution to our problem). The “black box” in
+the middle is computer science, or the code we’ll learn to write.
 
-[Constants](Introduction%208ea0569d8d464550bb3964fe793a33cf/Constants%2032e235f52aeb46438493cb6ffae1d274.md)
+The black box will contain algorithms, step-by-step instructions for solving problems
 
-[Data Types](Introduction%208ea0569d8d464550bb3964fe793a33cf/Data%20Types%205de22bc1f4144589baff1bece14c3ba9.md)
+Humans can follow algorithms too, such as recipes for cooking. When programming a computer, we need to be more precise with our algorithms so our instructions aren’t ambiguous or misinterpreted.
 
-[Input and output](Introduction%208ea0569d8d464550bb3964fe793a33cf/Input%20and%20output%202d725f5d4e0d419a8d79f3243ca08642.md)
+![Introduction%208ea0569d8d464550bb3964fe793a33cf/Untitled%201.png](Introduction%208ea0569d8d464550bb3964fe793a33cf/Untitled%201.png)
 
-[Operators](Introduction%208ea0569d8d464550bb3964fe793a33cf/Operators%202340a4cbd24740f2a362366796678dd9.md)
+When we write programs using algorithms, we generally care not just how correct they are, but how well-designed they are, considering factors such as efficiency.
+
+- When writing code, we might consider the following qualities:
+    - **Correctness**, or whether our code works correctly, as intended.
+    - **Design**, or a subjective measure of how well-written our code is, based on how
+    efficient it is and how elegant or logically readable it is, without
+    unnecessary repetition.
+    - **Style**, or how aesthetically formatted our code is, in terms of consistent
+    indentation and other placement of symbols. Differences in style don’t
+    affect the correctness or meaning of our code, but affect how readable
+    it is visually.

@@ -34,9 +34,29 @@ void func() {
 
 ```
 
+Each function when it receives local variables as input, receives copies of those variables, not the variables themselves.
+
+Example:
+
+```c
+int main(void)
+{
+	int foo = 4;
+	triple(foo);
+}
+
+int triple(int x)
+{
+	return x *= 3; //it does not changes the value of foo
+}
+
+```
+
 ## Global Variable
 
 Variables that are declared outside of all functions are known as external or global variables. They are accessible from any function inside the program.
+
+You have got to be careful when you are working with global variables. While they are very flexible in being able to pass information aroung, it also can have some dangerous consequences if one function changes the value of a variable before you expect it to be changed.
 
 Example:
 

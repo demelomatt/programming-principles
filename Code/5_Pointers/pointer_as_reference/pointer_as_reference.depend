@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1610681208 source:/home/matt/Documents/Dev/C/Exercises/Algorithms/3_Pointers/pointer_as_reference/main.c
-	<stdio.h>
-	<stdlib.h>
-
-1610745048 source:/home/matt/Documents/Dev/C/Exercises/Algorithms/3_Pointer/pointer_as_reference/main.c
-	<stdio.h>
-	<stdlib.h>
-

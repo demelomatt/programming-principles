@@ -1,14 +1,18 @@
 # break and continue
 
-## break
+# break
 
-The break statement ends the loop immediately when it is encountered. Its syntax is:
+The break statement ends the loop immediately when it is encountered. 
+
+![break%20and%20continue%204f20908379f444c4a17dfa155771cb88/Untitled.png](break%20and%20continue%204f20908379f444c4a17dfa155771cb88/Untitled.png)
+
+## Its syntax in C is:
 
 ```c
 break;
 ```
 
-Example:
+### Example:
 
 ```c
 // Program to calculate the sum of numbers (10 numbers max)
@@ -37,15 +41,19 @@ int main() {
 }
 ```
 
-## continue
+# continue
 
-The `continue` statement skips the current iteration of the loop and continues with the next iteration. Its syntax is:
+The `continue` statement skips the current iteration of the loop and continues with the next iteration. 
+
+![break%20and%20continue%204f20908379f444c4a17dfa155771cb88/Untitled%201.png](break%20and%20continue%204f20908379f444c4a17dfa155771cb88/Untitled%201.png)
+
+### Its syntax in C is:
 
 ```c
 continue;
 ```
 
-Example:
+### Example:
 
 ```c
 // Program to calculate the sum of numbers (10 numbers max)

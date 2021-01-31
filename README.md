@@ -6,10 +6,10 @@ We will learn programming principles using c language.
 
 Sources:
 
-[https://computersciencewiki.org/index.php/Programming](https://computersciencewiki.org/index.php/Programming)
-[https://cs50.harvard.edu/x/ (https://cs50.harvard.edu/x/)
-[https://en.wikipedia.org/](https://en.wikipedia.org/)
-[https://www.programiz.com/c-programming/](https://www.programiz.com/c-programming/)
+[https://computersciencewiki.org/index.php/Programming](https://computersciencewiki.org/index.php/Programming),
+[https://cs50.harvard.edu/x/](https://cs50.harvard.edu/x/),
+[https://en.wikipedia.org/](https://en.wikipedia.org/),
+[https://www.programiz.com/c-programming/](https://www.programiz.com/c-programming/),
 [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)<br/><br/>
  
 

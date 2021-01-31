@@ -1,0 +1,7 @@
+﻿Function,Work of Function
+strlen(),computes string's length
+strcpy(),copies a string to another
+strcat(),concatenates(joins) two strings
+strcmp(),compares two strings
+strlwr(),converts string to lowercase
+strupr(),converts string to uppercase

@@ -1,4 +1,4 @@
-# Programming
+# Programming principles
 
 Programming is the process of planning, writing, executing and testing instructions for a computer system.
 

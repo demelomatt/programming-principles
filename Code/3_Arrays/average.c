@@ -1,24 +1,24 @@
 //calculate the average of n numbers
 
 #include <stdio.h>
-#define n 5
+#define SIZE 5
 
 int main(void){
 
-    int i,a,sum = 0,arr[n];
+    int i, a, sum = 0, arr[SIZE];
     float avg;
 
-    for (i=0;i<n;i++){
-        printf("Input the %d° value: ",i + 1);
-        scanf("%d",&a);
+    for (i = 0; i < SIZE; i++){
+        printf("Input the %d° value: ", i + 1);
+        scanf("%d", &a);
         arr[i] = a;
     }
 
-    for (i=0;i<n;i++){
-        sum+=arr[i];
-
+    for (i = 0; i < SIZE; i++){
+        sum += arr[i];
     }
-    avg = (float) sum/n;
-    printf("Average: %1.1f",avg);
+
+    avg = (float) sum / SIZE;
+    printf("Average: %1.1f", avg);
     return 0;
 }

@@ -1,0 +1,22 @@
+// Using the break statement in a for statement.
+
+/*The break statement, when executed in a while, for, do…while or switch statement,
+causes an immediate exit from that statement. */
+
+#include <stdio.h>
+
+int main(void)
+{
+    int x;
+
+    for (x = 1; x <= 10; x++) {
+
+        if (x == 5) {
+            break;
+        }
+
+        printf("%d ", x);
+    }
+
+    printf("\nBroke out of loop at x == %d\n", x);
+}
